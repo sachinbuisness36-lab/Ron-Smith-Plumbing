@@ -56,7 +56,7 @@ const Contact: React.FC = () => {
                 </div>
 
                 <div className="text-center mt-16">
-                    <a href="tel:6139689201" className="bg-orange-500 text-white font-bold py-4 px-12 rounded-lg text-2xl shadow-lg transform transition-transform hover:scale-105">
+                    <a href="tel:6139689201" className="bg-orange-500 text-white font-bold py-3 px-8 text-xl md:py-4 md:px-12 md:text-2xl rounded-lg shadow-lg transform transition-transform hover:scale-105">
                         📞 Call For A Free Estimate
                     </a>
                     <p className="text-gray-600 mt-4">Fast Response. Reliable Service.</p>

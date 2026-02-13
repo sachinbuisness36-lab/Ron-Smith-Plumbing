@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
                     <span className="flex items-center gap-2"><span className="text-green-400">✔</span> Local & Trusted</span>
                     <span className="flex items-center gap-2"><span className="text-green-400">✔</span> Fast Response Times</span>
                 </div>
-                <a href="tel:6139689201" className="bg-orange-500 text-white font-bold py-4 px-8 rounded-lg text-xl shadow-lg transform transition-transform hover:scale-105 animate-pulse">
+                <a href="tel:6139689201" className="bg-orange-500 text-white font-bold py-3 px-6 text-lg md:py-4 md:px-8 md:text-xl rounded-lg shadow-lg transform transition-transform hover:scale-105 animate-pulse">
                     📞 Call Now (613) 968-9201
                 </a>
             </div>
